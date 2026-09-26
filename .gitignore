@@ -1,0 +1,22 @@
+# Dataset files (too large for GitHub)
+student_resource/dataset/
+student_resource/profile.json
+student_resource/.DS_Store
+
+# Working files generated at runtime
+student_resource/work/
+student_resource/output/
+student_resource/models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS metadata
+__MACOSX/
+.DS_Store
+*.zip
+
+# PDFs (large, not code)
+*.pdf

@@ -1,0 +1,14 @@
+# Core
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# Optional: faster edit distance (drop-in compatible with features.py fallback)
+# rapidfuzz>=3.6.0
+
+# Optional: sentence embeddings as an extra name feature
+# sentence-transformers>=2.7.0   # must be ≤8B params, MIT/Apache license
+# torch>=2.2.0
+
+# Utilities
+tqdm>=4.66.0
